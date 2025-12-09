@@ -143,6 +143,18 @@ footer {
     color: var(--accent-color);
 }
 
+.btn-roxo {
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+    color: #fff;
+}
+
+.btn-roxo:hover {
+    background-color: #b6028f;
+    border-color: #b6028f;
+}
+
+
 /* --- Animação de Fade-in no Scroll --- */
 .fade-in-section {
     opacity: 0;
